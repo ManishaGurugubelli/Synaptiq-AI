@@ -1,4 +1,5 @@
 streamlit
+groq
 google-generativeai
 langchain
 langchain-community
@@ -10,3 +11,6 @@ python-dotenv
 pandas
 matplotlib
 numpy
+torch
+torchvision
+transformers
