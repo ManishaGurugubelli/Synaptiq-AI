@@ -200,6 +200,8 @@ if st.sidebar.button(
 # =====================================================
 
 if uploaded_file is not None:
+    os.makedirs("uploads", exist_ok=True)
+    os.makedirs("vectorstore", exist_ok=True)
 
     pdf_path = os.path.join(
         "uploads",
