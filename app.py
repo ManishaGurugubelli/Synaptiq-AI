@@ -1,6 +1,6 @@
 
 # =====================================================
-# SYNAPTIQ AI - FULL UPDATED APP.PY
+# SYNAPTIQ AI - APP.PY
 # =====================================================
 
 import streamlit as st
